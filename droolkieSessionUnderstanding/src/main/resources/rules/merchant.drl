@@ -1,0 +1,15 @@
+import com.capitalone.sample.kieSessionExample.Discount;
+
+rule "channel is applePay"
+    when
+        cutOffis: Discount(merchantName=="applePay")
+    then
+        cutOffis.setMerchantCutOff(2);
+    end
+
+rule "channel is google pay"
+    when
+        cutOffis:Discount(merchantName=="googlePay")
+    then
+        cutOffis.setMerchantCutOff(1);
+    end

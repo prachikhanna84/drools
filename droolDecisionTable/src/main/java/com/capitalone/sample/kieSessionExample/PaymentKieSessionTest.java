@@ -14,16 +14,12 @@ public class PaymentKieSessionTest {
             KieSession kSession = kContainer.newKieSession("first-ksession-rule");
 
             Payment paymentOffer = new Payment();
-            Discount discount = new Discount();
             paymentOffer.setChannel("googlePay");
-            paymentOffer.setSpecialOffer(30);
-            discount.setMerchantName("googlePay");
 
             kSession.insert(paymentOffer);
-            kSession.insert(discount);
             kSession.fireAllRules();
 
-            System.out.println("The cashback for this payment channel VIA KIE " + paymentOffer.getChannel() + " is " + paymentOffer.getDiscount() + " merchange cut of is " + discount.getMerchantCutOff());
+            System.out.println("The cashback for this payment channel VIA KIE " + paymentOffer.getChannel() + " is " + paymentOffer.getDiscount());
         } catch (Exception e) {
             e.printStackTrace();
         }

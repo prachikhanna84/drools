@@ -4,16 +4,6 @@ public class Payment {
 
     public String channel;
     public int discount;
-    public int specialOffer;
-
-    public int getSpecialOffer() {
-        return specialOffer;
-    }
-
-    public void setSpecialOffer(int specialOffer) {
-        this.specialOffer = specialOffer;
-    }
-
 
     public String getChannel() {
         return channel;
