@@ -25,3 +25,4 @@ Maven Dependencies to be added for Decision Table
             <version>6.2.0.Final</version>
         </dependency>
 
+![DecisionTable](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/Screen%20Shot%202020-06-01%20at%203.55.57%20PM.png)
