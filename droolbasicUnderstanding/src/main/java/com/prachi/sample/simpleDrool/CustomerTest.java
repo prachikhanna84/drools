@@ -1,4 +1,4 @@
-package com.capitalone.sample.simpleDrool;
+package com.prachi.sample.simpleDrool;
 
 import org.drools.compiler.compiler.DroolsParserException;
 import org.drools.compiler.compiler.PackageBuilder;

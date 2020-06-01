@@ -1,4 +1,4 @@
-package com.capitalone.sample.simpleDrool;
+package com.prachi.sample.simpleDrool;
 
 public class Customer {
 

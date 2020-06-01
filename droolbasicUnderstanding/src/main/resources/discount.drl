@@ -1,18 +1,4 @@
-import com.capitalone.sample.simpleDrool.Customer;
-
-//rule "Offer for apple pay"
-//    when
-//        offerIs: Payment(channel=="applePay")
-//    then
-//        offerIs.setDiscount(10);
-//    end
-//
-//rule "Offer for google pay"
-//    when
-//        offerIs: Payment(channel=="googlePay")
-//    then
-//        offerIs.setDiscount(20);
-//    end
+import com.prachi.sample.simpleDrool.Customer;
 
 rule "Customer is a NEW Customer With Birthday as Today"
     when
