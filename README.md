@@ -20,8 +20,8 @@ Backward chaining: Backward Chaining is goal-driven. means we start with a resul
 
 ![Architecture](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/architecture%20high%20level.png)
 
-This Project is divided into 3 sessions:
+This Project is divided into 3 sessions with working coding examples:
 
-- Chapter 1 -> https://github.cloud.capitalone.com/lym752/drools/tree/master/droolbasicUnderstanding
-- Chapter 2 -> https://github.cloud.capitalone.com/lym752/drools/tree/master/droolkieSessionUnderstanding
-- Chapter 3 -> https://github.cloud.capitalone.com/lym752/drools/tree/master/droolDecisionTable
+- Chapter 1 - Drools Basic -> https://github.cloud.capitalone.com/lym752/drools/tree/master/droolbasicUnderstanding
+- Chapter 2 - Drools Kie Session -> https://github.cloud.capitalone.com/lym752/drools/tree/master/droolkieSessionUnderstanding
+- Chapter 3 - Drools Decision Table -> https://github.cloud.capitalone.com/lym752/drools/tree/master/droolDecisionTable
