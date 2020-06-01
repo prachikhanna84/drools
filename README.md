@@ -26,3 +26,5 @@ Drools consists of two major parts:
 
 1) Create DRL (.drl) files, build package and place them into Rule Base.
 2) Facts in Working memory and activate/fire rules
+
+ ![droolflow](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/drools%20Flow.png)
