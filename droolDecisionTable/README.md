@@ -33,4 +33,4 @@ Maven Dependencies to be added for Decision Table
  Decision Table set discount to 15% when channel type is google pay. It set discount to 20% when channel type is apple pay 
  Column B is the Condition where channel Types values are paased
  
-![DecisionTable](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/Screen%20Shot%202020-06-01%20at%203.55.57%20PM.png)
+![DecisionTable](https://github.com/prachikhanna84/drools/blob/master/images/rulesExcel.png)
