@@ -7,7 +7,7 @@ Drools consists of two major parts:
 1) Create DRL (.drl) files, build package and place them into Rule Base.
 2) Facts in Working memory and activate/fire rules
 
- ![droolflow](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/drools%20Flow.png)
+ ![droolflow](https://github.com/prachikhanna84/drools/blob/master/images/drools%20Flow.png)
  
 Maven Dependency to be added:
 
@@ -26,6 +26,6 @@ discount
 
 Add DRL file under resources
 
-![WorkingFlow](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/rulesbasicunderstanding.png)
+![WorkingFlow](https://github.com/prachikhanna84/drools/blob/master/images/rulesbasicunderstanding.png)
 
         
