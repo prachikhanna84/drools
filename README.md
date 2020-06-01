@@ -14,6 +14,10 @@ Stateful: Any change in the facts in working memory will trigger all the rules a
 
 Stateless: Any changes in the facts while executing rules is not made aware to the rule engine and will not trigger all rules by default.
 
+Forward Chaining: Forward chaining is data-driven. Facts in working memory is applied to rules, which results in one or more rules being concurrently true and scheduled for execution by the Agenda.
+
+Backward chaining: Backward Chaining is goal-driven. means we start with a result which the engine tries to satisfy. There can be more than 1 possible solution in case of backward chaining.
+
 # Understanding Drools with Simple Examples
 
 Drools is a Open source, Business Logic Integration Platform, written in Java. Drools help us seperate business logic and data when writting code.
