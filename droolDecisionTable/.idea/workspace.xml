@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce227640-3a92-4262-b898-cf2f3b5c31a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../droolkieSessionUnderstanding/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/src/main/java/com/capitalone/sample/kieSessionExample/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../droolkieSessionUnderstanding/src/main/java/com/capitalone/sample/kieSessionExample/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/src/main/java/com/capitalone/sample/kieSessionExample/PaymentKieSessionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../droolkieSessionUnderstanding/src/main/java/com/capitalone/sample/kieSessionExample/PaymentKieSessionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/src/main/resources/rules/discountKie.drl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/target/classes/com/capitalone/sample/kieSessionExample/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../droolkieSessionUnderstanding/target/classes/com/capitalone/sample/kieSessionExample/Payment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/target/classes/com/capitalone/sample/kieSessionExample/PaymentKieSessionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../droolkieSessionUnderstanding/target/classes/com/capitalone/sample/kieSessionExample/PaymentKieSessionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../droolkieSessionUnderstanding/target/classes/rules/discountKie.drl" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../droolbasicUnderstanding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../droolbasicUnderstanding/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="55">
+              <caret line="11" selection-start-line="11" selection-end-line="34" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -41,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/capitalone/sample/kieSessionExample/PaymentKieSessionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -49,6 +46,18 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -84,13 +93,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/capitalone/sample/kieSessionExample/Payment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/capitalone/sample/kieSessionExample/PaymentKieSessionTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -105,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,9 +161,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -239,16 +243,18 @@
       <workItem from="1590764840318" duration="3134000" />
       <workItem from="1590769449756" duration="35000" />
       <workItem from="1590784435059" duration="1348000" />
+      <workItem from="1591043155812" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6281000" />
+    <option name="totallyTimeSpent" value="6334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="971" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="972" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -262,7 +268,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30147895" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30113637" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.46643913" />
@@ -294,57 +300,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/rules/discountKie.drl" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF-OLD/kmodule.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF-OLD/maven/pom.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/discount.drl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/capitalone/sample/simpleDrool/Payment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/capitalone/sample/simpleDrool/PaymentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/discount.drl" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/capitalone/sample/simpleDrool/Payment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/capitalone/sample/simpleDrool/PaymentTest.java" />
+    <entry file="file://$PROJECT_DIR$/../drools-hello-world-table/src/main/java/com/javainuse/model/Product.java" />
+    <entry file="file://$PROJECT_DIR$/../drools-hello-world-table/src/main/java/com/javainuse/main/DroolsTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/capitalone/sample/kieSessionExample/Payment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../drools-hello-world-table/src/main/java/com/javainuse/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../drools-hello-world-table/src/main/java/com/javainuse/main/DroolsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -355,6 +319,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="11" selection-start-line="11" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
