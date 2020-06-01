@@ -18,6 +18,8 @@ Forward Chaining: Forward chaining is data-driven. Facts in working memory is ap
 
 Backward chaining: Backward Chaining is goal-driven. means we start with a result which the engine tries to satisfy. There can be more than 1 possible solution in case of backward chaining.
 
+![Architecture](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/architecture%20high%20level.png)
+
 # Understanding Drools with Simple Examples
 
 Drools is a Open source, Business Logic Integration Platform, written in Java. Drools help us seperate business logic and data when writting code.
