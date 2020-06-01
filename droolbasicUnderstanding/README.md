@@ -13,5 +13,6 @@ totalSpending
 customerBirthDayToday
 discount
 
+![WorkingFlow](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/rulesbasicunderstanding.png)
 
         
