@@ -14,6 +14,10 @@ Stateful: Any change in the facts in working memory will trigger all the rules a
 
 Stateless: Any changes in the facts while executing rules is not made aware to the rule engine and will not trigger all rules by default.
 
+
+
+
+
 # Understanding Drools with Simple Examples
 
 Drools is a Open source, Business Logic Integration Platform, written in Java. Drools help us seperate business logic and data when writting code.
