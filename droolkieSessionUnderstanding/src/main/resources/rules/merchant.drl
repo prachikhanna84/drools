@@ -1,4 +1,4 @@
-import com.capitalone.sample.kieSessionExample.Discount;
+import com.prachi.sample.kieSessionExample.Discount;
 
 rule "channel is applePay"
     when
