@@ -1,4 +1,4 @@
-package com.capitalone.sample.kieSessionExample;
+package com.prachi.sample.kieSessionExample;
 
 import org.kie.api.KieServices;
 import org.kie.api.runtime.KieContainer;
