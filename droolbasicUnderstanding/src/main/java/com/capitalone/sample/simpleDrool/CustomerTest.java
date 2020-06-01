@@ -11,11 +11,11 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
 
-public class PaymentTest {
+public class CustomerTest {
 
     public static void main(String args[]) throws IOException, DroolsParserException {
 
-        PaymentTest paymentTest = new PaymentTest();
+        CustomerTest paymentTest = new CustomerTest();
         paymentTest.executeDrool();
 
     }
@@ -34,14 +34,15 @@ public class PaymentTest {
 
         WorkingMemory workingMemory = ruleBase.newStatefulSession();
 
-        Payment payment = new Payment();
+        Customer customer = new Customer();
 
-        payment.setChannel("applePay");
-        workingMemory.insert(payment);
+        customer.setCustomerBirthDayToday(true);
+        customer.setNewCustomer(true);
+        customer.setTotalSpending(200);
+        workingMemory.insert(customer);
+
         workingMemory.fireAllRules();
-
-        System.out.println("Discount is " + payment.getDiscount());
-
+        System.out.println("Discount is " + customer.getDiscount());
 
     }
 
