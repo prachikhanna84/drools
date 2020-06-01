@@ -1,4 +1,4 @@
-package com.capitalone.sample.kieSessionExample;
+package com.prachi.sample.kieSessionExample;
 
 public class Payment {
 
@@ -17,7 +17,4 @@ public class Payment {
         return discount;
     }
 
-    public void setDiscount(int discount) {
-        this.discount = discount;
-    }
 }
