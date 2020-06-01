@@ -24,5 +24,13 @@ Maven Dependencies to be added for Decision Table
             <artifactId>drools-decisiontables</artifactId>
             <version>6.2.0.Final</version>
         </dependency>
-
+        
+        
+ Payment Pojo consist of two properties:
+ channel
+ discount
+ 
+ Decision Table set discount to 15% when channel type is google pay. It set discount to 20% when channel type is apple pay 
+ Column B is the Condition where channel Types values are paased
+ 
 ![DecisionTable](https://github.cloud.capitalone.com/lym752/drools/blob/master/images/Screen%20Shot%202020-06-01%20at%203.55.57%20PM.png)
